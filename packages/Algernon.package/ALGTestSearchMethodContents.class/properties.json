@@ -1,0 +1,14 @@
+{
+	"category" : "Algernon-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ALGTestSearchMethodContents",
+	"pools" : [
+		 ],
+	"super" : "ALGTest",
+	"type" : "normal" }
